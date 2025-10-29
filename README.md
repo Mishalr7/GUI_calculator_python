@@ -24,8 +24,6 @@ It performs basic arithmetic operations with a clean, responsive interface.
    python GUI_Calculator.py
    ```
 
-## 📸 Screenshot
-(Add one later here — maybe your app UI)
 
 ---
 
